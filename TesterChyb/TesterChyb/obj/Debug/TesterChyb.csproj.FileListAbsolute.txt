@@ -1,0 +1,8 @@
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\bin\Debug\TesterChyb.exe
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\bin\Debug\TesterChyb.pdb
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\obj\Debug\TesterChyb.Form1.resources
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\obj\Debug\TesterChyb.Properties.Resources.resources
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\obj\Debug\TesterChyb.csproj.GenerateResource.Cache
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\obj\Debug\TesterChyb.exe
+C:\Users\Vmachota\Documents\Visual Studio 2008\Projects\TesterChyb\TesterChyb\obj\Debug\TesterChyb.pdb
